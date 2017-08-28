@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-printf("hello world with jenkins");
+printf("hello world with jenkins\n");
 }
